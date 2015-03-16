@@ -1,0 +1,8 @@
+Release Notes for the CSPP_DIM package - 16-March-2015
+===========================================================
+This package is part of the LabVIEW project "CS++.lvproj" is used to develop the successor of the CS Framework.
+
+
+Version 1.0.0.0
+===============
+This is the first official release based on LabVIEW 2014 and DIM v20r9.
